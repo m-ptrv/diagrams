@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T10:11:37.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="W_3ItyhWBV-7WjKUb2Uf" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T10:19:54.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="xRGRq55Khd2aSsxTWM2m" version="14.9.7" type="github">
   <diagram id="5c6AxjzpulbUdd4eHJt3" name="Page-1">
     <mxGraphModel dx="1290" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="8tnM9pRMmCKiPTkGgOxN-25" value="" style="group" vertex="1" connectable="0" parent="8tnM9pRMmCKiPTkGgOxN-26">
           <mxGeometry x="15" y="10" width="157" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8tnM9pRMmCKiPTkGgOxN-19" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;ASP.NET Core&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Dashboard Control&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#404040;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;fontSize=16;autosize=1;" vertex="1" parent="8tnM9pRMmCKiPTkGgOxN-25">
+        <mxCell id="8tnM9pRMmCKiPTkGgOxN-19" value="ASP.NET Core&#xa;Dashboard Control&#xa;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#404040;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;fontSize=16;autosize=1;" vertex="1" parent="8tnM9pRMmCKiPTkGgOxN-25">
           <mxGeometry width="157" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8tnM9pRMmCKiPTkGgOxN-24" value="&lt;div&gt;Dashboard Builder&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fontSize=14;fontColor=#404040;autosize=1;" vertex="1" parent="8tnM9pRMmCKiPTkGgOxN-25">
