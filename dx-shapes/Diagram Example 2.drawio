@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T07:37:50.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="xDTR2VIGIZqYZXN5mTsY" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T11:18:09.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="3m7gw2-NXVN1-3HXJ7en" version="14.9.7" type="github">
   <diagram id="I7MKdZzmmeKfj5xwQfBJ" name="Page-1">
     <mxGraphModel dx="1290" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;fillColor=#e9f6fc;gradientColor=none;strokeColor=none;arcSize=3;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-22" value="" style="rounded=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;fillColor=#e9f6fc;gradientColor=none;strokeColor=none;arcSize=3;" vertex="1" parent="1">
           <mxGeometry width="269" height="449" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;fillColor=#e9f6fc;gradientColor=none;strokeColor=none;arcSize=3;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-23" value="" style="rounded=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;fillColor=#e9f6fc;gradientColor=none;strokeColor=none;arcSize=3;" vertex="1" parent="1">
           <mxGeometry x="293" y="95.5" width="242" height="258.5" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-25">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="76" as="targetPoint" />
             <Array as="points">
@@ -19,10 +19,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-25" value="TcxGridBandedTableView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-25" value="TcxGridBandedTableView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="22" width="182" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-28" target="unnkq_dx2Y6YsdZgCNAa-29">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-28" target="unnkq_dx2Y6YsdZgCNAa-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="76" />
@@ -30,30 +30,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-27" value=".Controller" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="unnkq_dx2Y6YsdZgCNAa-26">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-27" value=".Controller" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="unnkq_dx2Y6YsdZgCNAa-26">
           <mxGeometry x="-0.7171" y="1" relative="1" as="geometry">
             <mxPoint x="8" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-28" value="TcxGridDBBandedTableView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-28" value="TcxGridDBBandedTableView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-29" value="TcxGridBandedTableController" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-29" value="TcxGridBandedTableController" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="117" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-30" value="TcxGridCardViewController" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-30" value="TcxGridCardViewController" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="163" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-31" value="TcxGridChartController" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-31" value="TcxGridChartController" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="209" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-32" value="TcxGridLayoutViewController" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-32" value="TcxGridLayoutViewController" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="255" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-33" value="TcxGridTableController" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-33" value="TcxGridTableController" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="301" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-38" target="unnkq_dx2Y6YsdZgCNAa-30">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-38" target="unnkq_dx2Y6YsdZgCNAa-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323" y="217" as="targetPoint" />
             <Array as="points">
@@ -62,12 +62,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-35" value=".Controller" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="unnkq_dx2Y6YsdZgCNAa-34">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-35" value=".Controller" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="unnkq_dx2Y6YsdZgCNAa-34">
           <mxGeometry x="-0.7171" y="1" relative="1" as="geometry">
             <mxPoint x="12" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-37">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="160" as="targetPoint" />
             <Array as="points">
@@ -76,16 +76,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-37" value="TcxGridCardview" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-37" value="TcxGridCardview" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="106" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-38" value="TcxGridDBCardview" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-38" value="TcxGridDBCardview" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="144" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-39" value="TcxGridDBChartView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-39" value="TcxGridDBChartView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="228.5" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fontColor=#404040;endArrow=classic;endFill=1;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-41" target="unnkq_dx2Y6YsdZgCNAa-31">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fontColor=#404040;endArrow=classic;endFill=1;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-41" target="unnkq_dx2Y6YsdZgCNAa-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="227" as="targetPoint" />
             <Array as="points">
@@ -94,10 +94,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-41" value="TcxGridChartView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-41" value="TcxGridChartView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="190.5" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-41" target="unnkq_dx2Y6YsdZgCNAa-39">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-41" target="unnkq_dx2Y6YsdZgCNAa-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="244.5" as="targetPoint" />
             <Array as="points">
@@ -106,12 +106,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-43" value=".Controller" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-43" value=".Controller" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="243" y="198" as="geometry">
             <mxPoint x="-3" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fontColor=#404040;endArrow=classic;endFill=1;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-47" target="unnkq_dx2Y6YsdZgCNAa-32">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fontColor=#404040;endArrow=classic;endFill=1;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-47" target="unnkq_dx2Y6YsdZgCNAa-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323" y="310.4999999999998" as="targetPoint" />
             <Array as="points">
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-47" target="unnkq_dx2Y6YsdZgCNAa-48">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-47" target="unnkq_dx2Y6YsdZgCNAa-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="328" as="targetPoint" />
             <Array as="points">
@@ -129,16 +129,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-46" value=".Controller" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-46" value=".Controller" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="243" y="281.5" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-47" value="TcxGridLayoutView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-47" value="TcxGridLayoutView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="274" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-48" value="TcxGridDBLayoutView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-48" value="TcxGridDBLayoutView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="312" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fontColor=#404040;endArrow=classic;endFill=1;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-53" target="unnkq_dx2Y6YsdZgCNAa-33">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fontColor=#404040;endArrow=classic;endFill=1;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-53" target="unnkq_dx2Y6YsdZgCNAa-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323" y="355" as="targetPoint" />
             <Array as="points">
@@ -147,10 +147,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-50" value=".Controller" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-50" value=".Controller" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;;labelBackgroundColor=none;fontColor=#505050;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="243" y="365.5" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-53" target="unnkq_dx2Y6YsdZgCNAa-52">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=&#39;Open Sans Condensed&#39;,&#39;HelveticaNeue-CondensedBold&#39;,Helvetica,&#39;Arial Narrow&#39;,Calibri,Arial,&#39;Lucida Grande&#39;,sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D&#39;Open%2BSans%2BCondensed&#39;%252C&#39;HelveticaNeue-CondensedBold&#39;%252CHelvetica%252C&#39;Arial%2BNarrow&#39;%252CCalibri%252CArial%252C&#39;Lucida%2BGrande&#39;%252Csans-serif%253B;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeColor=#9c9c9c;" edge="1" parent="1" source="unnkq_dx2Y6YsdZgCNAa-53" target="unnkq_dx2Y6YsdZgCNAa-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="412" as="targetPoint" />
             <Array as="points">
@@ -159,10 +159,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-52" value="TcxGridDBTableView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-52" value="TcxGridDBTableView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="396" width="182" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="unnkq_dx2Y6YsdZgCNAa-53" value="TcxGridTableView" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
+        <mxCell id="unnkq_dx2Y6YsdZgCNAa-53" value="TcxGridTableView" style="rounded=1;fontFamily=&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;fillColor=#26a4dd;strokeColor=none;fontColor=#FFFFFF;arcSize=50;spacingBottom=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="358" width="182" height="32" as="geometry" />
         </mxCell>
       </root>
